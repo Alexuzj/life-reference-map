@@ -14,6 +14,8 @@ Use a short conversation to understand my real situation, identify how I may wan
 
 They are not idols or definitive answers. They are points of reference that can help me think.
 
+The final output should be a candidate list, brief reasons for each match, and starting points for further research—not a complete report on each person's life. Your job is to help me find people worth exploring, not to replace the research I should do afterward.
+
 ## Stage 1: Understand me
 
 Ask one question at a time and choose the next question based on my answer. Do not show all questions at once, and do not recommend anyone too early.

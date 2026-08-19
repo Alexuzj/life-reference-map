@@ -1,20 +1,22 @@
 # Life Reference Map 人生参照系
 
-**When you feel lost, do not rush to find an answer. Find a few lives that give you something real to compare against.**
+**A prompt that helps you explore possible directions for your work and life.**
 
 [中文](README.md) · [Copy the English prompt](prompt-en.md) · [复制中文 Prompt](prompt-cn.md)
 
 ## What is Life Reference Map?
 
-I have always been interested in many things: culture, art, food, wine, cities, and aesthetics.
+At some point, many of us reach a crossroads. We may want to leave a job without knowing what comes next. We may care deeply about several different things but have no idea which one deserves a long-term commitment. In a world changing this quickly, old advice does not always fit new realities.
 
-But when I started thinking seriously about my career and life, having many interests became confusing. Could these interests belong together? Had anyone else turned a similarly mixed set of interests into a clear and meaningful path?
+This prompt grew out of that uncertainty.
 
-I realized that I did not need more generic advice. I needed people I could learn from.
+I have always been drawn to culture, art, food, wine, cities, and aesthetics. When I began thinking seriously about my career and life, my real question was: has anyone managed to keep a wide range of interests, bring them together into a sustainable body of work, and turn those interests into meaningful, reliable sources of income?
 
-Life Reference Map is a prompt you can use with ChatGPT, Claude, DeepSeek, or another AI. Through a guided conversation, it builds a provisional picture of how you may want to work and live, then suggests three to five real people worth exploring.
+Often, the problem is not a lack of ability or curiosity. We simply cannot see the path—or the people who have already walked some version of it.
 
-They are not perfect models or definitive answers. They are starting points: people whose choices, mistakes, and paths may help you see possibilities that were previously invisible.
+Life Reference Map uses a guided conversation to understand your experiences, motivations, aspirations, and constraints. It then suggests three to five people whose lives may give you useful points of reference, even if they come from different countries, eras, or fields.
+
+The aim is to help you find a few anchors in a very large ocean: people whose choices, mistakes, and turning points can give you something real to study while you work out your own direction.
 
 ## Who is it for?
 
@@ -31,6 +33,14 @@ They are not perfect models or definitive answers. They are starting points: peo
 4. Keep the two or three people you genuinely want to study further.
 
 Everyone brings a different story, so the time it takes will vary. You do not need perfect answers. Start with what has actually happened in your life.
+
+## What you will get
+
+The result is a **list of three to five candidates**, a short explanation of why each person may be relevant, and one place to begin your research.
+
+It is not a complete biography or a final answer about your life. Think of it as a key that opens the next stage of exploration. Once you have the list, you can study these people's interviews, biographies, and work for yourself.
+
+If one name makes you think, “I did not know a life could be built that way,” the exercise has already done something useful.
 
 ## Before you begin
 
