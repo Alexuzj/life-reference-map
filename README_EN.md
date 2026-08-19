@@ -10,7 +10,7 @@ At some point, many of us reach a crossroads. We may want to leave a job without
 
 This prompt grew out of that uncertainty.
 
-I have always been drawn to culture, art, food, wine, cities, and aesthetics. When I began thinking seriously about my career and life, my real question was: has anyone managed to keep a wide range of interests, bring them together into a sustainable body of work, and turn those interests into meaningful, reliable sources of income?
+I have always been drawn to culture, art, food, wine, cities, and aesthetics. When I began thinking seriously about my career and life, my real question was: has anyone managed to keep a wide range of interests and weave them into a body of work that is both meaningful and financially sustainable?
 
 Often, the problem is not a lack of ability or curiosity. We simply cannot see the path—or the people who have already walked some version of it.
 
@@ -27,7 +27,7 @@ The aim is to help you find a few anchors in a very large ocean: people whose ch
 
 ## How to use it
 
-1. Open and copy the [English prompt](prompt-en.md).
+1. Open the [English prompt](prompt-en.md) and use the copy button in the top-right corner of the prompt box.
 2. Paste it into the AI you normally use.
 3. Answer with real experiences, not only your ideal self.
 4. Keep the two or three people you genuinely want to study further.
@@ -36,7 +36,7 @@ Everyone brings a different story, so the time it takes will vary. You do not ne
 
 ## What you will get
 
-The result is a **list of three to five candidates**, a short explanation of why each person may be relevant, and one place to begin your research.
+You will first receive a **list of three to five candidates**, a short explanation of why each person may be relevant, and one place to begin your research. After one round of feedback, you will keep two or three core references and choose one person to study first.
 
 It is not a complete biography or a final answer about your life. Think of it as a key that opens the next stage of exploration. Once you have the list, you can study these people's interviews, biographies, and work for yourself.
 
@@ -50,6 +50,8 @@ The useful part is not the final list. It is noticing why certain lives attract 
 
 AI can also make mistakes. The prompt asks it to label unverified information, but you should still check biographical details, books, interviews, and links. Do not treat an AI response as a fact by itself.
 
+You do not need to share real names, employer names, exact income, or other identifying information. Use general descriptions or ranges when privacy matters.
+
 ## Why “Life Reference Map”?
 
 “人生参照系” means a set of reference points for thinking about your life.
@@ -61,6 +63,10 @@ The people you find are not idols or templates. You do not need to copy their li
 You are welcome to use, share, and adapt this project. When publishing an adaptation, please credit the source and keep the project name and original link so others can find the latest version.
 
 If Life Reference Map helps you find one person you genuinely want to study, it has done its job.
+
+## Design references
+
+This prompt borrows several useful mechanisms from open projects: asking one question at a time, preferring behavioral evidence over polished self-description, treating conclusions as hypotheses, and continuing through low-cost exploration. References include [life-design-coach](https://github.com/TeigenZhang/life-design-coach), [claude-career-coach](https://github.com/donslice/claude-career-coach), [guided-journaling-skill](https://github.com/jasonge27/guided-journaling-skill), [HUMAN 3.0](https://github.com/chengjialu8888/Human-3.0), and [Designing Your Life](https://designingyour.life/insights/how-to-prototype-life-designs/). Life Reference Map keeps only the parts that directly support finding people worth studying.
 
 ## License
 

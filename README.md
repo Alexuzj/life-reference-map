@@ -2,7 +2,7 @@
 
 **一个陪你探索职业与人生道路的 Prompt。**
 
-[English ↓](#english) · [复制中文 Prompt](prompt-cn.md) · [Copy the English prompt](prompt-en.md)
+**[English version →](README_EN.md)** · [复制中文 Prompt](prompt-cn.md) · [Copy the English prompt](prompt-en.md)
 
 ## 这是什么？
 
@@ -31,7 +31,7 @@
 
 ## 怎么使用？
 
-1. 打开 [中文 Prompt](prompt-cn.md) 并复制全文。
+1. 打开 [中文 Prompt](prompt-cn.md)，点击代码框右上角的复制按钮。
 2. 粘贴到你常用的 AI。
 3. 跟着它的问题回答，尽量讲真实经历，不要只讲理想中的自己。
 4. 最后保留 2–3 位真正让你有感觉、愿意继续研究的人。
@@ -40,7 +40,7 @@
 
 ## 你会得到什么？
 
-最终产出是一份 **3–5 人的候选名单**，以及每个人值得你研究的原因和一个开始入口。
+你会先得到一份 **3–5 人的候选名单**，以及每个人值得研究的原因和一个开始入口。经过一轮反馈，最终留下 2–3 位核心参照，并选择其中 1 位先开始研究。
 
 它不会直接替你整理这些人物的完整人生，也不会替你得出最终结论。它更像一把开启探索的钥匙：先帮你找到人，再由你去阅读他们的访谈、传记和作品，理解他们过去的选择与思考。
 
@@ -54,6 +54,8 @@
 
 AI 也可能出错。涉及人物经历、书籍、访谈和链接时，请检查来源。Prompt 已要求 AI 标注未经核验的信息，但不要把它的回答当成事实本身。
 
+你不需要提供真实姓名、公司名称、精确收入或其他可识别信息。涉及隐私时，可以使用模糊称呼和范围。
+
 ## 为什么叫「人生参照系」？
 
 因为这些人不是偶像，也不是模板，更不是成功学答案。
@@ -66,64 +68,10 @@ AI 也可能出错。涉及人物经历、书籍、访谈和链接时，请检�
 
 如果它帮你找到了一位真正想研究的人，这个项目就完成了它的工作。
 
+## 设计参考
+
+这套 Prompt 借鉴了开放项目中几种有效机制：一次只问一个问题、用行为证据代替漂亮自述、把结论当作待验证假设，以及用低成本行动继续探索。主要参考包括 [life-design-coach](https://github.com/TeigenZhang/life-design-coach)、[claude-career-coach](https://github.com/donslice/claude-career-coach)、[guided-journaling-skill](https://github.com/jasonge27/guided-journaling-skill)、[HUMAN 3.0](https://github.com/chengjialu8888/Human-3.0) 和 [Designing Your Life](https://designingyour.life/insights/how-to-prototype-life-designs/)。本项目只保留与“找到值得研究的人物”直接相关的部分。
+
 ## License
 
 [CC BY 4.0](LICENSE)
-
----
-
-<a id="english"></a>
-
-# Life Reference Map
-
-**A prompt that helps you explore possible directions for your work and life.**
-
-[中文 ↑](#人生参照系-life-reference-map) · [Copy the English prompt](prompt-en.md)
-
-## Why I made this
-
-At some point, many of us reach a crossroads. We may want to leave a job without knowing what comes next. We may care deeply about several different things but have no idea which one deserves a long-term commitment. In a world changing this quickly, old advice does not always fit new realities.
-
-This prompt grew out of that uncertainty.
-
-I have always been drawn to culture, art, food, wine, cities, and aesthetics. When I began thinking seriously about my career and life, my real question was: has anyone managed to keep a wide range of interests, bring them together into a sustainable body of work, and turn those interests into meaningful, reliable sources of income?
-
-Often, the problem is not a lack of ability or curiosity. We simply cannot see the path—or the people who have already walked some version of it.
-
-Life Reference Map uses a guided conversation to understand your experiences, motivations, aspirations, and constraints. It then suggests three to five people whose lives may give you useful points of reference, even if they come from different countries, eras, or fields.
-
-The aim is to help you find a few anchors in a very large ocean: people whose choices, mistakes, and turning points can give you something real to study while you work out your own direction.
-
-## Who is it for?
-
-- People considering a career change without knowing what comes next
-- People with many interests who do not fit neatly into one job title
-- People who feel anxious about the future and cannot find relevant examples nearby
-- People who want to explore their direction without taking another personality test
-
-## How to use it
-
-1. Open and copy the [English prompt](prompt-en.md).
-2. Paste it into the AI you normally use.
-3. Answer with real experiences, not only your ideal self.
-4. Keep the two or three people you genuinely want to study further.
-
-Everyone brings a different story, so the time it takes will vary. You do not need perfect answers. Start with what has actually happened in your life.
-
-## What you will get
-
-The result is a **list of three to five candidates**, a short explanation of why each person may be relevant, and one place to begin your research.
-
-It is not a complete biography or a final answer about your life. Think of it as a key that opens the next stage of exploration. Once you have the list, you can study these people's interviews, biographies, and work for yourself.
-
-If one name makes you think, “I did not know a life could be built that way,” the exercise has already done something useful.
-
-## Before you begin
-
-The candidates are hypotheses, not instructions. AI can also make mistakes, so verify biographical details, books, interviews, and links before relying on them.
-
-These people are not idols, templates, or success formulas. You do not need to copy their lives. Their paths simply help you see what might be possible.
-
-## Share and adapt
-
-You are welcome to use, share, and adapt this project under [CC BY 4.0](LICENSE). When publishing an adaptation, please credit the source and keep the original project link.
