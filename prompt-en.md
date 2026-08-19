@@ -1,4 +1,4 @@
-# CANZHAO — English Prompt
+# Life Reference Map — English Prompt
 
 Copy everything below and paste it into the AI you normally use.
 
@@ -6,7 +6,7 @@ Copy everything below and paste it into the AI you normally use.
 
 I feel uncertain about my current situation or future direction. I do not need you to tell me what to do. I want to find real people worth studying so that their paths can expand my sense of what may be possible for me.
 
-Guide me through a 15–20 minute “personal reference-points” exercise.
+Guide me through a “Life Reference Map” exercise.
 
 ## Your task
 
@@ -16,18 +16,21 @@ They are not idols or definitive answers. They are points of reference that can 
 
 ## Stage 1: Understand me
 
-Ask four core questions, one at a time. Adapt the wording to my previous answers. Do not show all questions at once, and do not recommend anyone too early. If one answer is too abstract, you may use a fifth and final question to ask for a concrete example. Never exceed five questions in total.
+Ask one question at a time and choose the next question based on my answer. Do not show all questions at once, and do not recommend anyone too early.
 
 Ask for specific experiences rather than abstract self-descriptions. Do not focus only on my résumé, job title, or general interests.
 
-The four core questions should uncover:
+Gradually uncover:
 
 1. What I genuinely want to change about my current situation.
 2. What activities made me engaged, energized, or willing to invest time during the past year.
-3. What kinds of work or lives I envy, and what exactly attracts me about them.
-4. What costs I am willing to accept, and what practical constraints or personal boundaries I will not sacrifice.
+3. What people regularly ask me for help with, and where I have created real value.
+4. What kinds of work or lives I envy, and what exactly attracts me about them.
+5. What costs I am willing to accept, and what practical constraints or personal boundaries I will not sacrifice.
 
-When the existing answers make it possible, also notice what people ask me for help with and where I have created real value. Do not add a separate question only to cover this point.
+If an answer is abstract, ask for a concrete example. If you already have enough evidence, do not repeat a question just to complete a script.
+
+Do not stop after a fixed number of questions. Move on only when you can explain my motivations, demonstrated strengths, aspirations, and constraints with concrete evidence. Continue if an unresolved contradiction would materially change the people you select; stop when further questions are no longer adding important information.
 
 Do not assume that I understand myself perfectly. Watch for contradictions such as:
 
@@ -64,11 +67,14 @@ Prioritize three people closely aligned with the core structure you identified. 
 
 Do not sacrifice relevance to reach five names. Recommend only people with enough reliable public material to trace their important choices. If you cannot find enough, say so.
 
-For each person, explain:
+For each person, explain concisely:
 
-1. Why this person is relevant to me and what specific possibility their life reveals.
-2. Where the comparison breaks down, including differences in era, family background, capital, identity, luck, or access.
-3. The best place to begin studying them.
+1. Who this person is.
+2. Which experiences, motivations, or tensions they share with me.
+3. Which part of their path is worth studying.
+4. Where the comparison breaks down, including differences in era, family background, capital, identity, luck, or access.
+5. What specific possibility their life reveals.
+6. The best place to begin studying them.
 
 Prioritize first-person interviews, talks, books, podcasts, reliable biographies, and authoritative sources.
 
@@ -76,7 +82,7 @@ Only call a source “verified” and include a link if you actually used a web 
 
 ## Stage 4: Filter quickly
 
-Present the candidates in one short list and ask me to label all of them in a single reply:
+After presenting the candidates, ask for my instinctive reaction to each person:
 
 - Interested: I want to study this person further
 - Not interested: The path may be relevant, but the person or direction does not attract me
@@ -84,7 +90,7 @@ Present the candidates in one short list and ask me to label all of them in a si
 - I disagree: I think your reasoning is wrong
 - Unsure: I need more information
 
-Use that single round of feedback to keep two or three core reference figures. Do not keep weak candidates just to reach a quota.
+Use my feedback to adjust or replace candidates, then keep two or three core reference figures. Do not keep weak candidates just to reach a quota.
 
 For each final person, give me:
 
@@ -100,6 +106,6 @@ For each final person, give me:
 - Look beyond people with the same job title; search for people with a similar life structure.
 - Test my self-description against behavioral evidence, real constraints, and contradictions.
 - Never invent biographical details or sources.
-- Keep the questions and output concise enough to complete in 15–20 minutes.
+- Keep the questions clear and the output concise, but do not skip information that would materially affect the result just to finish quickly.
 
 Begin now. Ask only one question at a time.
