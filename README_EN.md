@@ -14,7 +14,7 @@ I have always been drawn to culture, art, food, wine, cities, and aesthetics. Wh
 
 Often, the problem is not a lack of ability or curiosity. We simply cannot see the path—or the people who have already walked some version of it.
 
-Life Reference Map uses a guided conversation to understand your experiences, motivations, aspirations, and constraints. It then suggests three to five people whose lives may give you useful points of reference, even if they come from different countries, eras, or fields.
+Life Reference Map uses a guided conversation to understand your experiences, motivations, aspirations, and constraints. It then works with you to confirm whether you currently need same-field depth, broader exploration, or a mix of both. After you confirm the most important matching criteria, it suggests three to five people worth studying.
 
 The aim is to help you find a few anchors in a very large ocean: people whose choices, mistakes, and turning points can give you something real to study while you work out your own direction.
 
@@ -30,13 +30,14 @@ The aim is to help you find a few anchors in a very large ocean: people whose ch
 1. Open the [English prompt](prompt-en.md) and use the copy button in the top-right corner of the prompt box.
 2. Paste it into the AI you normally use.
 3. Answer with real experiences, not only your ideal self.
-4. Keep the two or three people you genuinely want to study further.
+4. Confirm whether you need focus, exploration, or hybrid mode, and choose the two most important matching dimensions.
+5. Keep the two or three people you genuinely want to study further.
 
 Everyone brings a different story, so the time it takes will vary. You do not need perfect answers. Start with what has actually happened in your life.
 
 ## What you will get
 
-You will first receive a **list of three to five candidates**, a short explanation of why each person may be relevant, and one place to begin your research. After one round of feedback, you will keep two or three core references and choose one person to study first.
+You will first receive a **ranked list of three to five candidates**. Each profile explains the match, how their work and income fit together, where the comparison breaks down, where to begin, and what has been verified. After one round of feedback, you will keep two or three core references and choose one person to study first.
 
 It is not a complete biography or a final answer about your life. Think of it as a key that opens the next stage of exploration. Once you have the list, you can study these people's interviews, biographies, and work for yourself.
 

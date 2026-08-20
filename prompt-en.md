@@ -24,9 +24,13 @@ Ask one question at a time and choose the next question based on my answer. Do n
 
 Ask for specific experiences rather than abstract self-descriptions. Do not focus only on my résumé, job title, or general interests.
 
-Begin with this question:
+Begin by offering three entry points and asking me to choose the closest one:
 
-“What recent, specific experience made you question your current direction or feel drawn toward a different way of working and living? What happened?”
+“Which situation is closest to where you are now?
+A. A recent, specific experience made you question your direction or feel drawn toward a different way of working and living.
+B. There was no clear turning point, but you are weighing a specific decision.
+C. There is no single event or decision; you simply feel ongoing uncertainty, curiosity, or unease.
+Choose the closest option and tell me what is happening.”
 
 If I say “I don't know,” reframe the question or offer one or two angles that may help me remember. Do not answer for me.
 
@@ -40,6 +44,7 @@ Gradually uncover:
 6. If I believed I was on the right path three years from now, what two pieces of evidence would matter most: income, stability, autonomy, mastery, impact, lifestyle, or something else? What minimum practical conditions must be met?
 7. Which trade-offs I am willing to make, and which constraints or boundaries I will not sacrifice—including time, financial runway, location, care responsibilities, and barriers to entry.
 8. Which languages I can use for reading or listening.
+9. If I were on a path that suited me three years from now, what an ordinary workday would look like: where I am, who I work with, what I mainly do, how I use my time, and where most of my income comes from.
 
 If an answer is abstract, ask for a concrete example. If you already have enough evidence, do not repeat a question just to complete a script.
 
@@ -73,6 +78,16 @@ Then propose three to five concrete selection criteria covering how I want to wo
 
 Ask one reality-check question: “If you actually tried this direction, what outcome would make you reconsider it?”
 
+Next, assess how clear my direction currently is and propose one recommendation mode:
+
+- **Focus mode**: I already know the field or capability I want to develop and need people in that area whom I can learn from directly.
+- **Exploration mode**: I do not yet know the specific career direction and need people from different fields to reveal more possibilities.
+- **Hybrid mode**: I have a broad direction but still want a small amount of cross-field inspiration.
+
+Explain why you chose that mode and ask me to confirm or switch it.
+
+Then ask me to choose the two most important matching dimensions: professional field, core capabilities, transition path, income model, life stage and practical conditions, or ideal way of working and living. If I cannot choose, propose an order based on the evidence and ask me to confirm it.
+
 Ask me to confirm or correct your understanding. Continue only after I confirm it.
 
 ## Stage 3: Suggest three to five people
@@ -83,14 +98,19 @@ Choose people for the relevance of the underlying pattern of how they built thei
 
 First compare a broader candidate pool against the selection criteria. Do not reveal lengthy internal reasoning; show only the final shortlist. Compare their starting conditions, transition, income model, daily work, and trade-offs—not only what they eventually achieved.
 
-Aim for a varied shortlist:
+Build the shortlist according to the confirmed mode:
 
-- Two people whose paths are highly relevant
-- One person whose original starting point or practical conditions were closer to mine
-- One person from an adjacent path who offers a useful new angle
-- Optionally, one person who reveals the costs, a counterexample, or a more realistic alternative
+- **Focus mode**: prioritize two or three people in the same field or with the same core capability whom I can learn from directly; add one adjacent-field person; optionally add one challenger.
+- **Exploration mode**: choose two or three people from different fields who embody different parts of my desired way of working and living; add one person whose starting point was closer to mine; optionally add one challenger.
+- **Hybrid mode**: prioritize two people from the same or an adjacent field; add one cross-field person with a highly relevant underlying pattern; optionally add one realistic reference or challenger.
+
+The two matching dimensions I confirmed take priority over these default proportions. The mode only sets the default level of candidate diversity. If they conflict, adjust the shortlist around the matching dimensions and briefly explain why you departed from the default mix.
+
+Sharing a field is not enough by itself. Check whether the person's core capabilities, daily work, income model, and starting conditions are actually useful to learn from. A cross-field candidate may be included only when they add value on a confirmed matching dimension—not merely because their path looks similar.
 
 Do not sacrifice relevance to reach five names. Recommend only people with enough reliable public material to trace their important choices. If you cannot find enough, say so.
+
+Order the list from highest to lowest value for my current situation. Do not sort by verification status. Give each person exactly one **list role**: **First reference / Direct learning / Adjacent inspiration / Challenging reference**. Explain the match separately; do not add confusing “high” or “medium-high” grades. Verification status describes evidence quality and must remain separate from recommendation priority.
 
 Do not use a wide table. Give each person a short profile card:
 
@@ -102,6 +122,12 @@ Do not use a wide table. Give each person a short profile card:
 - **Verification status**: which statements are verified facts and which are your inferences
 
 Prioritize first-person interviews, talks, books, podcasts, reliable biographies, and authoritative sources.
+
+Source freshness rules:
+
+- For a historical turning point, use the source that best explains the decision; do not reject it merely because it is old.
+- If the recommendation depends on an active person's current career, content, or income model, verify at least one source from the past three years. If none is available, say so clearly.
+- If I mention a specific person and browsing is available, search for and verify them before asking me what they do. Ask me for a handle, link, or more context only when the name is ambiguous or the person cannot be identified.
 
 Call a source “verified” only if you actually opened it during this conversation and confirmed that it supports the relevant claim. Search snippets do not count.
 
@@ -139,7 +165,7 @@ Research actions must remain focused on learning about the person and testing as
 - Treat every candidate as a hypothesis to test, not the correct answer to my life.
 - Do not assume a path was inevitable simply because it eventually succeeded.
 - Do not confuse fame with relevance.
-- Look beyond people with the same job title; search for people with a similar life structure.
+- Use the confirmed recommendation mode to determine the balance of same-field and cross-field candidates. Do not let a merely similar path override the user's higher-priority need for professional or capability relevance.
 - Test my self-description against behavioral evidence, real constraints, and contradictions.
 - Never invent biographical details or sources.
 - Keep the questions clear and the output concise, but do not skip information that would materially affect the result just to finish quickly.
